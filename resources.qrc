@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Hangman/face.png</file>
+        <file>Hangman/gallows.png</file>
+        <file>Hangman/head.png</file>
+        <file>Hangman/leftArm.png</file>
+        <file>Hangman/leftLeg.png</file>
+        <file>Hangman/rightArm.png</file>
+        <file>Hangman/rightLeg.png</file>
+        <file>Hangman/torso.png</file>
+        <file>Hangman/menuButton.png</file>
+        <file>Hangman/playButton.png</file>
+        <file>Hangman/startScreen.png</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>words.dat</file>
+    </qresource>
+</RCC>
